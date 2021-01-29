@@ -1,0 +1,14 @@
+
+.text
+{
+	text-align: center;
+	font-size: 50px;
+}
+
+.tb
+{
+	text-align: center;
+	width: 300px;
+   border: 2px;
+   margin: auto;
+}
